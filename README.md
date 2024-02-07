@@ -1,10 +1,10 @@
 # Breast Cancer Wisconsin (Diagnostic) Classification
 
 ## Overview
-This repository contains a machine learning program designed to classify breast cancer tumors as malignant or benign using two different models: Logistic Regression and Support Vector Machine (SVM). The models are trained on the well-known Breast Cancer Wisconsin (Diagnostic) dataset, and their performance is evaluated based on standard metrics.
+This repository contains a machine learning program designed to classify breast cancer tumors using two different models: Logistic Regression and Support Vector Machine (SVM). The models are trained on the well-known Breast Cancer Wisconsin (Diagnostic) dataset, and their performance is evaluated based on standard metrics.
 
 ## Dataset
-The Breast Cancer Wisconsin (Diagnostic) dataset is used in this project. It includes features computed from a digitized image of a fine needle aspirate (FNA) of a breast mass. The target variable indicates whether the tumor is malignant (1) or benign (0).
+The Breast Cancer Wisconsin (Diagnostic) dataset is used in this project.
 
 ## Models
 
